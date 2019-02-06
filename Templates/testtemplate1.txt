@@ -1,0 +1,3 @@
+hello my name is $first $last
+i live at $address
+this is located in $city, $state
